@@ -1,0 +1,53 @@
+body{
+font family:Arial; sans-serif}
+
+header
+{
+text-align:center;
+padding: 5px;
+background-color:grey;
+}
+
+header img
+{
+width:150 px;
+height:150 px;
+border:100px;
+margin-bottom:10px;
+}
+
+section{
+margin:10px; 
+}
+
+.project
+{
+padding : 20px;
+height:100px;
+width:100px;
+border: 5px solid black;
+text-align:center;
+margin :4px;
+display :inline-block;
+line-height: 20px;
+
+}
+
+h1,h2
+{
+color:blue;
+}
+
+#work,#bio
+{
+padding:15px;
+background-color:#e9e9e9;
+
+}
+footer
+{
+ background-color: #f4f4f4;
+    text-align: center;
+    padding: 10px;
+}
+
